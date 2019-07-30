@@ -1,0 +1,9 @@
+ar\com\grupoesfera\piopio\uat\UserAcceptanceTest.class
+ar\com\grupoesfera\piopio\BaseDeUsuariosTest.class
+ar\com\grupoesfera\piopio\uat\PiosUserAcceptanceTest.class
+ar\com\grupoesfera\piopio\BaseDeFavoritosTest.class
+ar\com\grupoesfera\piopio\uat\UsuariosUserAcceptanceTest.class
+ar\com\grupoesfera\piopio\BaseDePiosTest.class
+ar\com\grupoesfera\piopio\BaseDeComentariosTest.class
+ar\com\grupoesfera\piopio\uat\UserAcceptanceTest$RespuestaServicio.class
+ar\com\grupoesfera\piopio\LevantarJPATest.class

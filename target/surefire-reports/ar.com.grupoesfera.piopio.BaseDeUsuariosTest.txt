@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ar.com.grupoesfera.piopio.BaseDeUsuariosTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in ar.com.grupoesfera.piopio.BaseDeUsuariosTest
+deberiasEscribirPruebasUnitarias(ar.com.grupoesfera.piopio.BaseDeUsuariosTest)  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.AssertionError: Tus clases deberían estar probadas y con Cobertura completa
+	at ar.com.grupoesfera.piopio.BaseDeUsuariosTest.deberiasEscribirPruebasUnitarias(BaseDeUsuariosTest.java:27)
+
